@@ -1,0 +1,6 @@
+C:\Users\Олег\Documents\Visual Studio 2017\Projects\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.exe.config
+C:\Users\Олег\Documents\Visual Studio 2017\Projects\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.exe
+C:\Users\Олег\Documents\Visual Studio 2017\Projects\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.pdb
+C:\Users\Олег\Documents\Visual Studio 2017\Projects\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.exe
+C:\Users\Олег\Documents\Visual Studio 2017\Projects\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.pdb
+C:\Users\Олег\Documents\Visual Studio 2017\Projects\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.csprojResolveAssemblyReference.cache
